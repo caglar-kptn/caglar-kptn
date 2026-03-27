@@ -1,56 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Bayram Çağlar Kaptan! 👋
 
-I'm **Çaglar**, a senior **Computer Engineering student** at **Trakya University**. I am passionate about crafting innovative and scalable software solutions, with a strong focus on **Full-Stack development**, **Mobile Applications**, and **Artificial Intelligence**.
+**Senior Computer Engineering Student & Full-Stack AI Developer**
 
-Focused on building real-world applications that merge modern software engineering with **Deep Learning** and **Computer Vision**.
+I am a passionate software developer with a strong focus on solving complex problems through scalable, real-world solutions. With a solid foundation in diverse programming languages and end-to-end development, I thrive in collaborative team environments. Beyond traditional web and mobile architectures, my core focus lies in **Artificial Intelligence**. I actively work on training **Deep Learning models (CNN, VLM, LLM)** and seamlessly integrating these advanced AI pipelines into modern, robust software ecosystems.
+
+### 🚀 What I Do
+
+* **AI & Deep Learning Pipelines:** Training and deploying CNN, VLM, and LLM models. I build advanced Python-based AI pipelines for computer vision and generative tasks, bridging the gap between raw data and user-facing applications.
+* **Full-Stack & Architecture:** Designing secure, multi-layered web platforms (React, Node.js, .NET) featuring multi-factor authentication, biometric verification, and real-time database synchronization.
+* **Mobile & Cross-Platform:** Developing responsive and asynchronous mobile applications using Kotlin, Swift, and Flutter, focusing on local data persistence and hardware-level integrations.
+* **Team Collaboration:** Actively collaborating with diverse developer teams to manage the full software lifecycle. I believe great software is built on strong communication, detail-oriented design, and a solution-driven mindset.
 
 ### 🛠️ Tech Stack & Skills
 
-#### 💻 Programming Languages
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/> </a>
-</p>
-
-#### 🧠 AI / Machine Learning
-- Deep Learning
-- Computer Vision (OpenCV)
-- Model Training & Evaluation
-
-#### 🚀 Frameworks & Tools
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://supabase.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### 🏆 Featured Projects
 
-- **Secure Survey Platform:** Full-stack web app with AI survey gen & biometric verification (React, Node.js, Python, Face Recog).
-- **Optical Form Processor:** DIP application with Flutter frontend and Python backend for automated grading (Flutter, Python, OpenCV).
-- **Voice Mobile Translator:** Accessible mobile app with on-device SQLite database and speech technologies (Kotlin, Room DB).
-- **CafeByte System:** Real-time desktop automation with Supabase backend (JavaFX).
-- **Desktop Banking App:** Local application for financial operations (Python, Tkinter, SQLite).
+* **🎬 Audio Description Platform (Tech for Good):** An advanced AI-driven platform designed to automatically generate cinematic and perfectly timed audio descriptions for the visually impaired. Built on a modern full-stack architecture, featuring a highly responsive React frontend and a robust .NET backend that seamlessly orchestrates a powerful Python-based AI pipeline.
+* **🔐 Secure AI Survey System:** A comprehensive platform with automated AI survey generation and QR distribution. Features a robust Python-based verification engine (face recognition, ID scanning, location validation) integrated with a React/Node.js/MongoDB stack.
+* **📄 Optical Form Processor:** An automated exam grading system combining Digital Image Processing via OpenCV with a Flutter frontend and Python backend to evaluate custom answer keys instantly.
+* **🎙️ Voice-Enabled Mobile Translator:** A Kotlin-based mobile application utilizing Speech-to-Text and Text-to-Speech technologies, complete with an on-device Room Database for personalized dictionaries.
+* **☕ CafeByte Automation:** A comprehensive JavaFX desktop application utilizing a cloud-based Supabase backend for real-time restaurant order and table management.
 
-### 📫 Let's Connect!
+### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/bayramcaglarkaptan34" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="40" height="40"/> </a>
-  <a href="mailto:caglarkaptan38@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-plain.svg" alt="email" width="40" height="40"/> </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=caglar-kptn&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<br>
+### 📫 Let's Connect
 
-**Geliştirme süreçlerinde yer aldığım uygulamaların teknik detayları için profilimdeki "Projeler" sekmesini veya GitHub hesabımı inceleyebilir, benimle doğrudan iletişime geçebilirsiniz.**
+**For technical details of my applications, feel free to explore my repositories or contact me directly.**
 
----
-
-**Fun Fact:** I enjoy combining different technologies to create unique user experiences.
+<p align="left">
+  <a href="https://www.linkedin.com/in/bayramcaglarkaptan34" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="mailto:caglarkaptan38@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+</p>
