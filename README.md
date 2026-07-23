@@ -1,6 +1,6 @@
 # Hi there, I'm Bayram Çağlar Kaptan! 👋
 
-**Senior Computer Engineering Student & Full-Stack AI Developer**
+**Computer Engineering Graduate | Full-Stack and AI Developer**
 
 I am a passionate software developer with a strong focus on solving complex problems through scalable, real-world solutions. With a solid foundation in diverse programming languages and end-to-end development, I thrive in collaborative team environments. Beyond traditional web and mobile architectures, my core focus lies in **Artificial Intelligence**. I actively work on training **Deep Learning models (CNN, VLM, LLM)** and seamlessly integrating these advanced AI pipelines into modern, robust software ecosystems.
 
